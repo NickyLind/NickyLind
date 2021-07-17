@@ -1,1 +1,1 @@
-[![NickyLind's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickylind&theme=radical_icons=true)](https://github.com/NickyLind)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickyLind&theme=radical_icons=true)
