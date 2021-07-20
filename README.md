@@ -28,8 +28,8 @@
 </div>
 
 
-<!-- ## Stats
+## Stats
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickyLind&show_icons=true&theme=radical&hide=issues,contribs,stars,prs) </br>
-(_I noticed the other day that making old repos private removes the commits_ 😥) -->
+(_I noticed the other day that making old repos private removes the commits_ 😥)
 ## Contact
 Feel free to contact me via <a href="mailto:nicholaithegreat@gmail.com" alt="nicholaithegreat@gmail.com">Email</a> or discord at **NickyLind#7439**
