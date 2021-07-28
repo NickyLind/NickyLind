@@ -34,5 +34,8 @@
 ## Contact
 Feel free to contact me via <a href="mailto:nicholaithegreat@gmail.com" alt="nicholaithegreat@gmail.com">Email</a> or discord at **NickyLind#7439**
 
+
+<br>
+<br>
 #### Note:
 Most of my commits missing from the weekend are actually from me working doubles at my bartending gig all weekend and not having the time/energy to do projects unfortunately 😵
