@@ -1,5 +1,5 @@
 # NickyLind's GitHub
-*_Hey I'm Nick and I'm a recent Epicodus graduate where I earned a Certificate in Web and Mobile Development. I am always looking for fun new technologies to learn, so feel free to hit me up with anything you'd recommend or if you have any questions about my repositories or any advice!_*
+*_I am a PHP and JavaScript web developer looking for new opportunities to grow in the PNW. I have about 2.5 years of programming experience outside of school, and am looking to expand my horizons in the world of programming. I am seeking a challenges that foster professional growth and continuous learning in web development.!_*
 
 ## Featured Languages
 <div>
